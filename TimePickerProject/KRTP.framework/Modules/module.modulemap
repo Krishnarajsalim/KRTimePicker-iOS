@@ -1,0 +1,6 @@
+framework module KRTP {
+  umbrella header "KRTP.h"
+
+  export *
+  module * { export * }
+}
