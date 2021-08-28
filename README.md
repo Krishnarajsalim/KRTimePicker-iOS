@@ -34,7 +34,7 @@ Thats it.... You've made it... 👍
         KRTPOBj.showKRTPicker(from: self, setFor: sender as! UIButton) 
     }
   ```
- Thats all for swift... :)
+ Thats all for swift.... :)
   
 ### Support
 If you need any customisation in this Framework, Reach out to me via <a href="krishnarajsalim@gmail.com" target="_blank">`krishnarajsalim@gmail.com`</a> 
@@ -43,3 +43,5 @@ If you need any customisation in this Framework, Reach out to me via <a href="kr
 If this project help you reduce time to develop, you can give me a cup of coffee :)
  
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S4FGGFYUVS6HU)
+
+
